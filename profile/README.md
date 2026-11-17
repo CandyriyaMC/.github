@@ -2,7 +2,7 @@
 
 # 🍬 CandyriyaMC
 
-**Open-source Minecraft projects — a hybrid server and a Rust proxy.**
+**Open-source Minecraft projects.**
 
 🌐 [candyriya.xsxs.lol](https://candyriya.xsxs.lol/) &nbsp;·&nbsp; 💬 [Discussions](https://github.com/CandyriyaMC/.github/discussions) &nbsp;·&nbsp; 📫 [bejiihiu@icloud.com](mailto:bejiihiu@icloud.com)
 
@@ -12,7 +12,6 @@
 
 | Project | What it is |
 | --- | --- |
-| **[Candyriya](https://github.com/CandyriyaMC/Candyriya)** | Hybrid Minecraft server — Bukkit / Spigot / Paper API on Forge, NeoForge and Fabric. A fork of [Arclight](https://github.com/IzzelAliz/Arclight), targeting Minecraft 1.21.1. |
 | **[candyriya](https://github.com/CandyriyaMC/candyriya-rs)** | Minecraft: Java Edition proxy written in Rust. Async hot path, forced hosts, modern (HMAC) and legacy forwarding, WASM plugin system, online and offline auth. |
 
 More repositories on the way — see the [full repository list](https://github.com/CandyriyaMC?tab=repositories).
