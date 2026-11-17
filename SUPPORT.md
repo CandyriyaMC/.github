@@ -4,6 +4,7 @@ Having trouble with a CandyriyaMC project? Here's where to go, fastest first.
 
 | You have… | Go here |
 | --- | --- |
+| Someone online to talk to | [Discord](https://discord.gg/fXwN4wETF9) — the CandyriyaMC community server |
 | A usage question ("how do I…") | [Discussions](https://github.com/CandyriyaMC/.github/discussions) → Q&A |
 | An idea or a showcase | [Discussions](https://github.com/CandyriyaMC/.github/discussions) → Ideas / Show and tell |
 | A bug | The affected repository's issue tracker (bug report template) |

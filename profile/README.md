@@ -4,7 +4,7 @@
 
 **Open-source Minecraft projects.**
 
-🌐 [candyriya.xsxs.lol](https://candyriya.xsxs.lol/) &nbsp;·&nbsp; 💬 [Discussions](https://github.com/CandyriyaMC/.github/discussions) &nbsp;·&nbsp; 📫 [bejiihiu@icloud.com](mailto:bejiihiu@icloud.com)
+🌐 [candyriya.xsxs.lol](https://candyriya.xsxs.lol/) &nbsp;·&nbsp; 🎮 [Discord](https://discord.gg/fXwN4wETF9) &nbsp;·&nbsp; 💬 [Discussions](https://github.com/CandyriyaMC/.github/discussions) &nbsp;·&nbsp; 📫 [bejiihiu@icloud.com](mailto:bejiihiu@icloud.com)
 
 </div>
 
@@ -18,6 +18,7 @@ More repositories on the way — see the [full repository list](https://github.c
 
 ## Community
 
+- 🎮 **Live chat** — [Discord](https://discord.gg/fXwN4wETF9) — the CandyriyaMC community server: chat, questions and announcements.
 - 🐞 **Bugs & feature requests** — open an issue in the affected repository.
 - 💬 **Questions, ideas, showcases** — [Discussions](https://github.com/CandyriyaMC/.github/discussions).
 - 🤝 **Contributing** — read [CONTRIBUTING.md](https://github.com/CandyriyaMC/.github/blob/main/CONTRIBUTING.md).
