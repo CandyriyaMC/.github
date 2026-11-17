@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions & ideas
+    url: https://github.com/CandyriyaMC/.github/discussions
+    about: Ask questions, share ideas and showcases in Discussions — please don't file issues for support.
+  - name: Security reports
+    url: https://github.com/CandyriyaMC/.github/blob/main/SECURITY.md
+    about: Never file security issues publicly — use private reporting.

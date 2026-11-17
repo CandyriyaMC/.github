@@ -1,0 +1,8 @@
+{
+  "name": "Rust CI",
+  "description": "fmt, clippy, tests and docs for a Rust workspace on stable",
+  "iconName": "package",
+  "color": "f77f8d",
+  "categories": ["Continuous integration", "Testing"],
+  "filePatterns": ["**/Cargo.toml"]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Gradle CI",
+  "description": "Gradle wrapper build on Temurin Java 21",
+  "iconName": "code",
+  "color": "2f2f2f",
+  "categories": ["Continuous integration", "Testing"],
+  "filePatterns": ["**/build.gradle", "**/build.gradle.kts", "**/settings.gradle", "**/settings.gradle.kts", "gradle/wrapper/gradle-wrapper.properties"]
+}
